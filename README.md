@@ -6,7 +6,8 @@
 ### The form to compare coefficients and Root Mean Square Error were here: [Coefficients and RMSE comparison](https://docs.google.com/spreadsheets/d/1bYvy_ZorYkxhBcsd2F1QwCtBal5hvAIoIU-v7us_fYo/edit#gid=565528874)
 
 ### The interactive visualized results were displayed by a Dash App. The code can be found here: [MEDI and SEDI Dash Application](https://github.com/Wenhuan2516/MEDI-and-SEDI-Dash-Application)
-
+### This is the poster
+<img src="https://github.com/Wenhuan2516/MEDI-and-SEDI-Dash-Application/blob/main/medi.png" alt="image" title="medi">
 ### Here I am using results from 2016 to show you how MEDI and SEDI were developed.
 
 
