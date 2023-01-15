@@ -24,16 +24,26 @@
 #### Step 4: Use percentile function again to get a percentile for the sum of sub-indexes - This will be the final MEDI or SEDI
 ## MEDI
 <img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/MEDI-2016.png" alt="image" title="medi">
+
 ## SEDI
 <img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/SEDI-2016.png" alt="image" title="medi">
+
 ## SVI
 <img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/SVI-2016.png" alt="image" title="medi">
+
 ## MEDI + SVI
 <img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/updated-index.png" alt="image" title="medi">
+
 ## MEDI + SEDI
 <img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/medi+sedi-2016.png" alt="image" title="medi">
 
 #### Step 5: Use Root Mean Square Error to evaluation the result
 <img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/evaluation.png" alt="image" title="medi">
 
-
+## Some states are chosen to compare MEDI
+<img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/colorado.png" alt="image" title="medi">
+<img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/comparison1.png" alt="image" title="medi">
+<img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/comparison2.png" alt="image" title="medi">
+<img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/comparison3.png" alt="image" title="medi">
+<img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/comparison4.png" alt="image" title="medi">
+<img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/comparison5.png" alt="image" title="medi">
