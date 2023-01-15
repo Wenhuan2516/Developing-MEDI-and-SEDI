@@ -11,4 +11,19 @@
 
 ### Here I am using results from 2016 to show you how MEDI and SEDI were developed.
 
+#### Step 1: Using pairwise correlation to find the coeffecients between each climate factor or social economic factor and suicide rate in current year
+<img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/pairwise.png" alt="image" title="medi">
+<img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/pairwise-2.png" alt="image" title="medi">
+
+#### Step 2: Use the last line of the pairwise correlation results to be the weight of each factor 
+<img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/weight.png" alt="image" title="medi">
+
+#### Step 3: Multiple the weight and the data in each category to get the a score; use percentile function to find a sub-index between 0 and 1
+<img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/percentile.png" alt="image" title="medi">
+
+#### Step 4: Use percentile function again to get a percentile for the sum of sub-indexes - This will be the final MEDI or SEDI
+<img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/MEDI-2016.png" alt="image" title="medi">
+
+#### Step 5: Use Root Mean Square Error to evaluation the result
+
 
