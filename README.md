@@ -40,7 +40,8 @@
 #### Step 5: Use Root Mean Square Error to evaluation the result
 <img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/evaluation.png" alt="image" title="medi">
 
-## Some states are chosen to compare MEDI
+## Some states are chosen to compare MEDI. The full comparison PPT can be found here: [MEDI Comparison in some states](https://docs.google.com/presentation/d/1fLIHfY_L9HCYICEGvxbB-1jxjH0KwQO_KRyAm56dc6w/edit?usp=sharing)
+
 <img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/colorado.png" alt="image" title="medi">
 <img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/comparison1.png" alt="image" title="medi">
 <img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/comparison2.png" alt="image" title="medi">
