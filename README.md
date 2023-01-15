@@ -7,7 +7,8 @@
 
 ### The interactive visualized results were displayed by a Dash App. The code can be found here: [MEDI and SEDI Dash Application](https://github.com/Wenhuan2516/MEDI-and-SEDI-Dash-Application)
 ### This is the poster
-<img src="https://github.com/Wenhuan2516/MEDI-and-SEDI-Dash-Application/blob/main/medi.png" alt="image" title="medi">
+<img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/poster-full.png" alt="image" title="medi">
+
 ### Here I am using results from 2016 to show you how MEDI and SEDI were developed.
 
 
